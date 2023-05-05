@@ -1,5 +1,6 @@
 # Calculator-IMC-Js
 ###################
 #
-#Calculadora em JS puro 
+# att Calculadora em JS puro 
 #
+Aluno: Vinicius Henrique / 2 MODULO ADS
