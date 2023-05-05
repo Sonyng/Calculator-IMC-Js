@@ -209,7 +209,7 @@ divIdade.appendChild(PutIdade)
     divResults.style.alignItems = "center"
     divResults.style.justifyContent = "space-around"
     divResults.style.padding = "4px"
-    divResults.style.width = "600px"
+    divResults.style.width = "550px"
     divResults.style.height = "100px"
 }
 
@@ -241,8 +241,7 @@ divIdade.appendChild(PutIdade)
     divName.style.textAlign = "center"
     divName.style.justifyContent = "center"
     divName.style.alignItems = "center"
-    divName.style.borderStyle = "double "
-    divName.style.borderColor = "red"
+    divName.style.borderRadius = "10px"
 
 }
 {
@@ -265,6 +264,8 @@ divIdade.appendChild(PutIdade)
     divIdade.style.height = "40px"
     divIdade.style.alignItems = "center"
     divIdade.style.flexDirection = "row-reverse"
+    divIdade.style.borderRadius = "35% 10%"
+    divIdade.style.border = "2px solid red"
 }
 {
 
